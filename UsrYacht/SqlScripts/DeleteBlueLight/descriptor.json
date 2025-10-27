@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "aa2c87eb-2ed1-b583-edab-61cf196a6f72",
+    "Name": "DeleteBlueLight",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1761319449000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
